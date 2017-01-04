@@ -1,3 +1,5 @@
+'use strict';
+
 function startCounterDown(timeInSec, callback){
 	var hrElem = document.querySelector("#countHrDown");
     var minElem = document.querySelector("#countMinDown");
